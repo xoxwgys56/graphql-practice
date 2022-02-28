@@ -2,13 +2,13 @@
 
 ## Welcome
 
-- [welcome](./welcome/README.md)
+* [😀 welcome](README.md)
 
 ## Note
 
-- [official doc](official-docs/01-learn.md)
-- [SDL](note/sdl.md)
+* [official doc](note/01-learn.md)
+* [SDL](note/sdl.md)
 
 ## References
 
-- [references](./references/README.md)
+* [references](references/references.md)
