@@ -1,6 +1,8 @@
 # Table of contents
 
-graphql has lot of pros about frontend not depend on backend REST API implement.
+## Welcome
+
+- [welcome](./welcome/README.md)
 
 ## Note
 
