@@ -1,4 +1,3 @@
-# References
+# graphql practice
 
-- [Thinking in Graphql](https://blog.cometkim.kr/posts/thinking-in-graphql-ko/)
-- [GraphQL is not just a network protocol](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
+graphql has lot of pros about frontend not depend on backend REST API implement.
