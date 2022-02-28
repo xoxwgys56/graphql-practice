@@ -1,10 +1,12 @@
-# Summary
+# Table of contents
+
+* [README](README.md)
 
 ## Note
 
-- [official doc](./official-docs/01-learn.md)
-- [SDL](./docs/sdl.md)
+* [official doc](official-docs/01-learn.md)
+* [SDL](note/sdl.md)
 
 ## References
 
-- [references](./docs/REF.md)
+* [references](references/references.md)
