@@ -1,0 +1,28 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "graphql has lot of pros about frontend not depend on backend REST API implement.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoxwgys56/graphql-practice.git"
+  },
+  "keywords": [],
+  "author": "daewon kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoxwgys56/graphql-practice/issues"
+  },
+  "homepage": "https://github.com/xoxwgys56/graphql-practice#readme",
+  "dependencies": {
+    "gitbook": "latest",
+    "gitbook-cli": "latest"
+  },
+  "packageManager": "yarn@3.2.0"
+}
