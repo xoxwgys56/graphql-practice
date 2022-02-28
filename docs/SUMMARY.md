@@ -1,6 +1,6 @@
 # Table of contents
 
-- [README](README.md)
+graphql has lot of pros about frontend not depend on backend REST API implement.
 
 ## Note
 

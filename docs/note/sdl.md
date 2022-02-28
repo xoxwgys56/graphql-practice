@@ -8,7 +8,7 @@ Schema Definition Language
 - updating existing data
 - deleting data
 
-```gql
+```js
 mutation {
   createPerson(name: "Bob", age: 36) {
     name
